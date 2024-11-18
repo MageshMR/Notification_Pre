@@ -1,0 +1,9 @@
+Request
+{
+   "key": "value"
+}
+
+{
+   "success": true,
+   "message": "Data saved successfully."
+}
